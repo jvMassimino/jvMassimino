@@ -1,16 +1,42 @@
-## Hi there 👋
+# Bem-vindo ao Meu Perfil no GitHub
 
-<!--
-**jvMassimino/jvMassimino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Eu sou João, um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios.
 
-Here are some ideas to get you started:
+## 🏆 Conquistas do GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=jvMassimino&theme=onedark&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jvMassimino&show_icons=true&theme=radical)
+
+## 🌟 Linguagens Mais Usadas
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jvMassimino&layout=compact&theme=radical)
+
+## 🧑‍💻 Sobre Mim
+
+- 🔭 Atualmente estou trabalhando em [Secret]
+- 🌱 Atualmente estou aprendendo [Js]
+- 💬 Pergunte-me sobre [Programação]
+- 📫 Como me encontrar: [Secret]
+
+## 🚀 Projetos
+
+Aqui estão alguns dos meus projetos recentes:
+
+1. [Projeto 1](Secret)
+   - Descrição: ****
+
+2. [Projeto 2](Secret)
+   - Descrição: ****
+
+## 📫 Contato
+
+- Email: [Secret]
+- LinkedIn: ([LinkedIn](https://www.linkedin.com/in/joao-massimino/))
+
+---
+
+⭐️ [Siga-me no GitHub](https://github.com/jvMassimino) para ver meus repositórios e atualizações!
+
